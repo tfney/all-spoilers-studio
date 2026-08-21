@@ -11,9 +11,9 @@
     "type": "git",
     "url": "https://github.com/jackyzha0/quartz.git"
   },
-  "scripts": {
+ "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
-    "serve": "npx quartz build --serve -d docs",
+    "serve": "npx quartz build --serve -d \"all spoilers studio\"",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
