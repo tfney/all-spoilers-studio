@@ -32,11 +32,12 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Sync Notes to Content Folder
+      - name: Prepare Content Directory
         run: |
+          rm -rf content
           mkdir -p content
-          cp -R "all spoilers studio"/. content/ 2>/dev/null || true
-          
+          cp -r "all spoilers studio"/* content/ 2>/dev/null || true
+
       - name: Build Quartz
         run: npx quartz build
 
