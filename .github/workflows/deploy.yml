@@ -35,8 +35,8 @@ jobs:
       - name: Sync Notes to Content Folder
         run: |
           mkdir -p content
-          cp -R "all spoilers studio"/* content/ 2>/dev/null || true
-
+          cp -R "all spoilers studio"/. content/ 2>/dev/null || true
+          
       - name: Build Quartz
         run: npx quartz build
 
