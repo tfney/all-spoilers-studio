@@ -27,11 +27,16 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Install Dependencies
         run: npm install
 
+      - name: Sync Notes to Content Folder
+        run: |
+          mkdir -p content
+          cp -R "all spoilers studio"/. content/ 2>/dev/null || true
+          
       - name: Build Quartz
         run: npx quartz build
 
