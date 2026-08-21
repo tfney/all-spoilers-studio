@@ -18,6 +18,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: quartz # <-- CHANGE THIS to match your exact subfolder name on GitHub!
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -38,7 +42,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: quartz/public # <-- CHANGE "quartz" here to match your subfolder name too!
 
   deploy:
     environment:
