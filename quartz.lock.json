@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "article-title": {
+      "source": "github:quartz-community/article-title",
+      "resolved": "https://github.com/quartz-community/article-title.git",
+      "commit": "87499a64e8b9af69bfce23dd5985a33176b14b5e",
+      "installedAt": "2026-09-07T20:01:28.457Z"
+    }
+  }
+}
