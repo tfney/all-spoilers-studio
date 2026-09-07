@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: tfney.github.io/all-spoilers-studio
   ignorePatterns:
     - private
     - templates
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Pontano Sans
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:
