@@ -5,10 +5,6 @@ tags:
   - prejudice
   - social-divide
 genre:
-Title: Black characters as plot devices
----
----
-Title: One Dollar - Black characters as plot devices
 ---
 
 Characters:
