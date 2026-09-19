@@ -5,11 +5,7 @@ tags:
   - prejudice
   - social-divide
 genre:
-Title: Black characters as plot devices
----
----
-Title: One Dollar - Black characters as plot devices
----
+
 
 Characters:
 - Jake Noveer - Brilliant, but jaded detective. Managing a tense relationship with his best friend Trask, Braden police chief, due to his perception that Trask abandoned the missing persons case of a young black girl.
