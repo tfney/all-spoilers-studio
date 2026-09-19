@@ -1,23 +1,21 @@
 ---
 status: writers-room
-format: deep-dive
-tags:
-  - prejudice
-  - social-divide
-genre:
+---
+
+
 
 
 Characters:
 - Jake Noveer - Brilliant, but jaded detective. Managing a tense relationship with his best friend Trask, Braden police chief, due to his perception that Trask abandoned the missing persons case of a young black girl.
 - Tony "Rook" (?) 
 - Dante
-- Preacher (Etta?)*
+- Preacher (Etta?)
 - Foster mom
 - Markell
 - other mill worker* (Dante looking for job) only person who seemed to want to go out of his way, fellow black man
 - Rand
-- Waitress*
-- Cass*
+- Waitress
+- Cass
 starred characters are those who were no consistently a part of the storyline and/or didn't contribute substantially to the plot
 
 Character Placement:
