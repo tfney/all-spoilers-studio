@@ -18,7 +18,7 @@ Characters:
 - Rand
 - Waitress*
 - Cass*
-*starred characters are those who were no consistently a part of the storyline and/or didn't contribute substantially to the plot
+starred characters are those who were no consistently a part of the storyline and/or didn't contribute substantially to the plot
 
 Character Placement:
 Black characters are always the only black character unless they are interacting with each other.
