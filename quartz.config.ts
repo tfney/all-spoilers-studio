@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
-import ArticleTitle from "quartz-community-article-title" // <--- Add this import
+
 import { QuartzConfig } from "./quartz/cfg"
+
 
 const config: QuartzConfig = {
   configuration: {
@@ -45,10 +46,7 @@ const config: QuartzConfig = {
     },
   },
   plugins: {
-    transformers: [ArticleTitle({
-        font: "Inter", // <--- Pass your desired font here
-      }),
-      ],
+    transformers: [],
     filters: [],
     emitters: [],
   },
